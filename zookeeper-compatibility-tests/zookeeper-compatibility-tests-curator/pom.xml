@@ -32,7 +32,7 @@
     <description>Module for Apache Curator compatibility tests</description>
 
     <properties>
-        <apache-curator-version>5.0.0</apache-curator-version>
+        <apache-curator-version>5.8.0</apache-curator-version>
     </properties>
 
     <dependencies>
